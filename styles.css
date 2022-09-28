@@ -1,18 +1,27 @@
 body {
 background-color: black;}
-.first {
-    background-color:#6f1d1b;
-}
-.second {
+
+.p1 {
     color:#6f1d1b;
     background-color:whitesmoke;
     text-align: center;
-    margin-top: 200px;
-    margin-right: 400px;
-    margin-left: 400px;
-    height: 250px;
-    font-size: xx-large;
-    padding: 30px 20px 0 20px;
+    margin: auto;
+    margin-top: 150px;
+    height: 375px;
+    font-size: 50px;
+    padding: 1px 20px 0 20px;
     border-radius: 10px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 700px;
+}
+.p2{
+    color: #6f1d1b;
+    text-align:center;
+}
+#second {
+    color: #6f1d1b;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: end;
+    margin-right: 40px;
 }
