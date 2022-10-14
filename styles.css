@@ -1,24 +1,29 @@
 body {
-background-color: black;}
+background-color: black;
+}
 
 .p1 {
     color:#6f1d1b;
     background-color:whitesmoke;
     margin: auto;
-    margin-top: 150px;
-    height: 375px;
+    height:fit-content;
+    margin-top: 10px;
     font-size: 50px;
     padding: 1px 20px 20px 60px;
-    border-radius: 10px;
+    border-radius: 30px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     width: 700px;
+    border-top: rgb(19, 3, 3) solid 150px;
+    border-bottom: rgb(19, 3, 3) solid 150px;
+    border-left: rgb(19, 3, 3) solid 90px;
+    border-right: rgb(19, 3, 3) solid 90px;
 }
 .p2{
     color: #6f1d1b;
     text-align:center;
 }
 #second {
-    color: #6f1d1b;
+    color:#6f1d1b;
     font-size: 25px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: end;
@@ -29,7 +34,7 @@ background-color: black;}
     text-align:right;
 }
 #btn {
-    background-color: #6f1d1b;
+    background-color: rgb(19, 3, 3);
     color: white;
     font-size: 20px;
     height: 40px;
